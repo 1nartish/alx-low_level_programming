@@ -10,6 +10,7 @@ int main(void)
 
 	for (i = 0; i < 98; i++)
 	{
+
 	for (y = i + 1; y <= 99; y++)
 	{
 	putchar((i / 10) + '0');
